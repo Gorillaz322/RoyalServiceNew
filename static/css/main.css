@@ -1,0 +1,88 @@
+.parallax-container .main-text {
+    color: white;
+    font-size: 42px;
+}
+
+.parallax-container .main-text span {
+    font-weight: 500;
+}
+
+.parallax-2 i {
+    font-size: 60px;
+    color: #43a047;
+}
+
+.parallax-container .desc-text {
+    color: white;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.parallax-2 {
+    height: 550px;
+}
+
+.title-card {
+    width: 50%;
+    margin-left: 25%;
+    background-color: #263238;
+    padding: 7px;
+    margin-top: 23px;
+}
+
+.title-card .text-1 {
+    font-size: 47px;
+    color: white;
+    font-weight: 500;
+}
+
+.title-card .text-2 {
+    font-size: 19px;
+    color: white;
+}
+
+.title-card .text-3 {
+    font-size: 18px;
+    color: white;
+    padding: 20px 60px;
+}
+
+.collection .collection-item.avatar {
+    min-height: 130px;
+    padding-left: 137px;
+}
+
+.collection .collection-item.avatar .circle {
+    width: 100px;
+    height: 100px;
+}
+
+.collection .collection-item.avatar .title {
+    font-size: 21px;
+}
+
+.contacts-card {
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 87px;
+}
+
+.contacts-card .card-title {
+    font-size: 36px;
+}
+
+.contacts-card p {
+    display: inline-flex;
+    vertical-align: middle;
+    font-size: 18px;
+    padding: 15px;
+}
+
+.contacts-card i {
+    font-size: 32px;
+    padding-right: 33px;
+}
+
+#map {
+    height: 400px;
+}
